@@ -34,6 +34,7 @@ Desenvolver uma landing page responsiva para promover um projeto de ajuda às pe
 ### Design/Prototipagem
 - Figma
 - ChatGPT
+- Google Earth Studio
 
 ### Programação
 - TeleportHQ
