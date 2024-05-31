@@ -1,4 +1,4 @@
-# Desafio Cajuí - Ajude RS 
+# Desafio Cajuí Collab - Ajude RS 
 
 Este repositório contém o código do **Desafio de Habilidade** do processo seletivo da empresa júnior [**Cajuí Collab**](https://www.instagram.com/cajuicollab).
 
