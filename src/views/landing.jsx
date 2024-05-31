@@ -627,7 +627,7 @@ const Landing = (props) => {
                         Empresas e organizações podem se tornar parceiras do
                         <span />
                       </span>
-                      <span className="landing-text161">Ajude RS</span>
+                      <span className="landing-text161"> Ajude RS</span>
                       <span>
                         {' '}
                         e contribuir com recursos, serviços e apoio logístico.
